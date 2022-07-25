@@ -1,0 +1,32 @@
+.card-container {
+    background-color: #fff;
+    padding: 10px;
+    border: 4px solid black;
+    border-radius: 10px;
+}
+
+.card-image {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.user-name {
+    font-weight: 650;
+    color: hsl(210deg 29% 24%);
+    margin-bottom: 0px;
+}
+
+.user-occupation {
+    font-weight: 800;
+    color: hsl(184deg 9% 68%);
+    padding-left: 10px;
+}
+
+.user-info {
+    flex: 1 0 30%;
+}
+
+.user-graph {
+    flex: 1 0 70%;
+}
